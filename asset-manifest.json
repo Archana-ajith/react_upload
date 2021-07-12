@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "/damsel-in-distress/react_upload.git/static/css/main.67339a86.chunk.css",
-    "main.js": "/damsel-in-distress/react_upload.git/static/js/main.fc005ea5.chunk.js",
-    "main.js.map": "/damsel-in-distress/react_upload.git/static/js/main.fc005ea5.chunk.js.map",
-    "runtime-main.js": "/damsel-in-distress/react_upload.git/static/js/runtime-main.218e6957.js",
-    "runtime-main.js.map": "/damsel-in-distress/react_upload.git/static/js/runtime-main.218e6957.js.map",
-    "static/js/2.1e4cf4bc.chunk.js": "/damsel-in-distress/react_upload.git/static/js/2.1e4cf4bc.chunk.js",
-    "static/js/2.1e4cf4bc.chunk.js.map": "/damsel-in-distress/react_upload.git/static/js/2.1e4cf4bc.chunk.js.map",
-    "static/js/3.7d8e67f9.chunk.js": "/damsel-in-distress/react_upload.git/static/js/3.7d8e67f9.chunk.js",
-    "static/js/3.7d8e67f9.chunk.js.map": "/damsel-in-distress/react_upload.git/static/js/3.7d8e67f9.chunk.js.map",
-    "index.html": "/damsel-in-distress/react_upload.git/index.html",
-    "static/css/main.67339a86.chunk.css.map": "/damsel-in-distress/react_upload.git/static/css/main.67339a86.chunk.css.map",
-    "static/js/2.1e4cf4bc.chunk.js.LICENSE.txt": "/damsel-in-distress/react_upload.git/static/js/2.1e4cf4bc.chunk.js.LICENSE.txt"
+    "main.css": "/react_upload/static/css/main.67339a86.chunk.css",
+    "main.js": "/react_upload/static/js/main.7d1d723a.chunk.js",
+    "main.js.map": "/react_upload/static/js/main.7d1d723a.chunk.js.map",
+    "runtime-main.js": "/react_upload/static/js/runtime-main.0aab9363.js",
+    "runtime-main.js.map": "/react_upload/static/js/runtime-main.0aab9363.js.map",
+    "static/js/2.1e4cf4bc.chunk.js": "/react_upload/static/js/2.1e4cf4bc.chunk.js",
+    "static/js/2.1e4cf4bc.chunk.js.map": "/react_upload/static/js/2.1e4cf4bc.chunk.js.map",
+    "static/js/3.7d8e67f9.chunk.js": "/react_upload/static/js/3.7d8e67f9.chunk.js",
+    "static/js/3.7d8e67f9.chunk.js.map": "/react_upload/static/js/3.7d8e67f9.chunk.js.map",
+    "index.html": "/react_upload/index.html",
+    "static/css/main.67339a86.chunk.css.map": "/react_upload/static/css/main.67339a86.chunk.css.map",
+    "static/js/2.1e4cf4bc.chunk.js.LICENSE.txt": "/react_upload/static/js/2.1e4cf4bc.chunk.js.LICENSE.txt",
+    "static/media/minion2.e1b1316f.jfif": "/react_upload/static/media/minion2.e1b1316f.jfif",
+    "static/media/minion3.3f7c6504.jfif": "/react_upload/static/media/minion3.3f7c6504.jfif",
+    "static/media/mmi.4d81a4e1.png": "/react_upload/static/media/mmi.4d81a4e1.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.218e6957.js",
+    "static/js/runtime-main.0aab9363.js",
     "static/js/2.1e4cf4bc.chunk.js",
     "static/css/main.67339a86.chunk.css",
-    "static/js/main.fc005ea5.chunk.js"
+    "static/js/main.7d1d723a.chunk.js"
   ]
 }
